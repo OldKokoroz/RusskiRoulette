@@ -9,7 +9,7 @@ while True:
     try:
         guess = int(input("""
         
-        --------------------------------
+        -----------------------------------
             Time to Guess for your Faith 
             
                 !!CHOOSE WISELY!!
@@ -19,7 +19,7 @@ while True:
             Oh...! If you try to close this
                 You lose your chance :)
             
-        ---------------------------------\n        >>> """))
+        ------------------------------------\n        >>> """))
 
         if guess == number:
             print("""
